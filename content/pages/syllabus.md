@@ -1,334 +1,192 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, grading, books, and the schedule
+  of lecture topics, films, and key dates for the course.
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f24fd605-c72d-9304-1009-cd146979fc9c
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 1 session / week, 3 hours / session
 
-Description
------------
+## Description
 
 If the twentieth century was the century of physics, the twenty-first is becoming the century of biology. This subject examines the cultural, political, and economic dimensions of biology in the age of genomics, biotechnological enterprise, biodiversity conservation, pharmaceutical bioprospecting, and synthetic biology. Although we examine such social concerns as bioterrorism, genetic modification, and cloning, this is not a class in bioethics, but rather an anthropological inquiry into how the substances and explanations of biology—increasingly cellular, molecular, genetic, and informatic—are changing, and with them broader ideas about the relationship between "nature" and "culture." Looking at such cultural artifacts as cell lines, biodiversity databases, and artificial life models, and using primary sources in biology, social studies of the life sciences, and literary and cinematic materials, we rephrase Erwin Schrödinger's famous 1944 question, "What Is Life?" to ask, in the early 2000s, "What Is Life Becoming?"
 
-Prerequisites
--------------
+## Prerequisites
 
 None.
 
-Requirements
-------------
+## Requirements
 
 Students will write three 7-page papers, choosing from a selection of topics to be provided by the instructor for each paper. Each paper represents 25% of the subject grade. Late papers lose a full grade a day. Students will also be evaluated on class participation, including the preparation of occasional reading notes to prompt class discussion as well as contribution to classroom conversation (25% of subject grade). Punctual attendance is obligatory. There is no final.
 
-Grading
--------
+## Grading
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Paper One
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 25
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Paper Two
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 25
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Paper Three
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 25
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Class Participation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 25
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+## Required Books
 
-{{< tableclose >}}
+Keller, Evelyn Fox. *The Mirage of a Space between Nature and Nurture*. Duke University Press Books, 2010. ISBN: 9780822347316. \[Preview with [Google Books](http://books.google.com/books?id=3up1Eo2OdzIC&pg=PAfrontcover)\]
 
-Required Books
---------------
+Landecker, Hannah. *Culturing Life: How Cells Became Technologies*. Harvard University Press, 2007. ISBN: 9780674023284. \[Preview with [Google Books](http://books.google.com/books?id=CCvjXK91T9QC&pg=PAfrontcover)\]
 
-Keller, Evelyn Fox. _The Mirage of a Space between Nature and Nurture_. Duke University Press Books, 2010. ISBN: 9780822347316. \[Preview with [Google Books](http://books.google.com/books?id=3up1Eo2OdzIC&pg=PAfrontcover)\]
+Helmreich, Stefan. *Alien Ocean: Anthropological Voyages in Microbial Seas*. University of California Press, 2009. ISBN: 9780520250628. \[Preview with [Google Books](http://books.google.com/books?id=u1rXKH-SRHYC&pg=PAfrontcover)\]
 
-Landecker, Hannah. _Culturing Life: How Cells Became Technologies_. Harvard University Press, 2007. ISBN: 9780674023284. \[Preview with [Google Books](http://books.google.com/books?id=CCvjXK91T9QC&pg=PAfrontcover)\]
+## Calendar
 
-Helmreich, Stefan. _Alien Ocean: Anthropological Voyages in Microbial Seas_. University of California Press, 2009. ISBN: 9780520250628. \[Preview with [Google Books](http://books.google.com/books?id=u1rXKH-SRHYC&pg=PAfrontcover)\]
-
-Calendar
---------
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 KEY DATES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 FILMS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Life Now
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  No film
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 What is Life?
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
-_A Nineteenth-Century Vision_. David Lebrun, 2004
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*A Nineteenth-Century Vision*. David Lebrun, 2004
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Evolutionary Narratives
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
-_Jurassic Park_, Steven Spielberg, 1993
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*Jurassic Park*, Steven Spielberg, 1993
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Biopolitics
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
-_The Lynchburg Story_, Stephen Trombley, 1993
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*The Lynchburg Story*, Stephen Trombley, 1993
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Biology for Sale
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Paper One due
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+*Dirty Pretty Things*, Stephen Frears, 2002
 
-_Dirty Pretty Things_, Stephen Frears, 2002
+*The Gene Hunters,* PBS, 2001.
 
-_The Gene Hunters,_ PBS, 2001_._ 
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Animals, Wild and Domesticated
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Guest lecturer: Michaela Thompson
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+*The Love Life of the Octopus, Jean Painlevé, and Genevieve Hamon*, 1965
 
-_The Love Life of the Octopus, Jean Painlevé, and Genevieve Hamon_, 1965
+*Primate*, Frederick Wiseman, 1974
 
-_Primate_, Frederick Wiseman, 1974
+*Cane Toads*, Mark Lewis, 1988
 
-_Cane Toads_, Mark Lewis, 1988
+*Grizzly Man*, Werner Herzog, 2004
 
-_Grizzly Man_, Werner Herzog, 2004
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Biodiversity, Natural and Artificial
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
-_The Future of Food_, Deborah Koons, 2004
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*The Future of Food*, Deborah Koons, 2004
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Race in the Genomic Age
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
-_African American Lives_, "Episode 4: Beyond the Middle Passage," PBS, 2006
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*African American Lives*, "Episode 4: Beyond the Middle Passage," PBS, 2006
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Remixing Sex
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Paper Two due
 
 Guest lecturer: Emily Wanderer
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-_One in 2000_, Ajae Clearway, 2006
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*One in 2000*, Ajae Clearway, 2006
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Biopolitical Technology
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+*Death by Design,* Peter Freidman, and Jean- François Brunet, 1995
 
-_Death by Design,_ Peter Freidman, and Jean- François Brunet, 1995
+*Star Trek II: The Wrath of Kahn*, Nicholas Meyer, 1982
 
-_Star Trek II: The Wrath of Kahn_, Nicholas Meyer, 1982
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Earthly Aliens
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+*The Andromeda Strain*, Robert Wise, Michael Crichton, Nelson Gidding, 1971
 
-_The Andromeda Strain_, Robert Wise, Michael Crichton, Nelson Gidding, 1971
+*Volcanoes of the Deep*, Stephen Low, 2004
 
-_Volcanoes of the Deep_, Stephen Low, 2004
+*Aliens of the Deep*, James Cameron, 2005
 
-_Aliens of the Deep_, James Cameron, 2005
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Class Conference
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Paper Three due
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  No film
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
